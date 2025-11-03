@@ -1,5 +1,5 @@
 # Parallax_MaskKSC
-Simple mod to mask out the Kerbal Space Center from Parallax scatters using a custom black and white mask.
+Simple mod to mask out the Kerbal Space Center from Parallax scatters using a custom black and white mask. This mod as is, is adapted to a 2.7x size "Enhanced Kerbal Space Center". You will have to mod it to fit it to your needs.
 
 # Installation (hacky)
 
