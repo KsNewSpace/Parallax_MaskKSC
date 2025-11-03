@@ -5,7 +5,7 @@ Derived from the [Official Tutorial](https://github.com/Gameslinx/Parallax-Conti
 
 # Installation
 
-## Step 1
+## Copy Files
 
 Paste the downloaded folder into your GameData folder like so
 
