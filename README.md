@@ -10,6 +10,7 @@ Derived from the [Official Tutorial](https://github.com/Gameslinx/Parallax-Conti
 Paste the downloaded folder into your GameData folder like so
 
 > Kerbal Space Program\GameData\Parallax_MaskKSC\mask_ksc_MM.cfg
+
 > Kerbal Space Program\GameData\Parallax_MaskKSC\PluginData\mask_ksc.dds
 
 To create your own mask land on the VAB, in the center of the Helipads, zoom all the way in using Alt + Scroll, then zoom out using just scroll until you see the whole KSC. Create a screenshot. Paint the mask black on white background. Flip the mask vertically (mirror not rotate). Save as .dds file (DXT1 with mipmaps on). Exporting to dds can be done with for example Krita + DDS Export Python Plugin Script 
