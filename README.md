@@ -21,7 +21,7 @@ To create your own mask land on the VAB, in the center of the Helipads, zoom all
 
 ## Optional
 
-For a plug and play solution your KSC should have the same size as mine. I provide my Sigma settings file seperately.
+For a true plug and play solution your KSC should have the same size as mine (2.7x). I provide my Sigma and Parallax settings files separately.
 
 - [KSCEnhanced](https://forum.kerbalspaceprogram.com/topic/225356-ksc-enhanced/)
 - [SigmaDimensions](https://github.com/Sigma88/Sigma-Dimensions) using my 2.7x settings.cfg
