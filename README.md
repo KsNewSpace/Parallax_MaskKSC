@@ -26,3 +26,7 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 - [KSCEnhanced](https://forum.kerbalspaceprogram.com/topic/225356-ksc-enhanced/)
 - [SigmaDimensions](https://github.com/Sigma88/Sigma-Dimensions) using my 2.7x settings.cfg
 - [Sigma Replacements](https://github.com/Sigma88/Sigma-Replacements)
+
+# TODO
+
+- I have to tinker with Kronometer or other settings to make the daytime make a little more sense. It should be 12 hours but it isn't?
