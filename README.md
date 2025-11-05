@@ -35,5 +35,17 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 - I have to tinker with Kronometer or other settings to make the daytime make a little more sense. It should be 12 hours but it isn't?
 
 # Modlist
-
+- [Restock & Restock+](https://github.com/PorktoberRevolution/ReStocked) (Complete revamped of the stock parts plus stock-ish parts that Squad forgot)
+- [RestockPBR](https://github.com/PorktoberRevolution/ReStockPBR) (New PBR materials + re-color for Restock parts)
+- [Volumetric Cloud v3](https://www.patreon.com/posts/true-volumetric-87982960) (I use v5 but that one is paywalled)
+- [ParallaxContinued](https://github.com/Gameslinx/Parallax-Continued/) (Greatly improved ground scatter and parallax effects for all planets)
+- [Firefly](https://github.com/M1rageDev/Firefly/) (Revamped reentry effects)
+- [Waterfall](https://github.com/post-kerbin-mining-corporation/Waterfall) (Framework! All new engine effects that expand with atmospheric pressure)
+  - [Stock Waterfall Effect](https://github.com/KnightofStJohn/StockWaterfallEffects) (Configs for stock engines)
+  - [Waterfall Restock](https://github.com/post-kerbin-mining-corporation/WaterfallRestock) (Basic configs for Restock)
+  - [Waterfall Expansion](https://spacedock.info/mod/3149/Restock%20Waterfall%20Expansion) (Closes the gab between Stock and Restock Effects)
+  - [RSMP](https://github.com/dangaffa/RSMP) (Configs for SRBs)
+    - [Avalanche Plumes](https://github.com/KochieBR/Avalanche-Plumes) (Alternative for RSMP. One or the other!)
+- [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) (Organizes parts and gives them colored icons based on size similar to KSP2)
+  
 ![image](modlist.png)
