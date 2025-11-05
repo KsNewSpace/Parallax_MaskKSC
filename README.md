@@ -31,10 +31,12 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 
 # TODO
 
-- Link all mods I use
 - I have to tinker with Kronometer or other settings to make the daytime make a little more sense. It should be 12 hours but it isn't?
 
 # Modlist
+
+Check every mod for dependencies (I will add them later here too)
+
 - [Restock & Restock+](https://github.com/PorktoberRevolution/ReStocked) (Complete revamped of the stock parts plus stock-ish parts that Squad forgot)
 - [RestockPBR](https://github.com/PorktoberRevolution/ReStockPBR) (New PBR materials + re-color for Restock parts)
 - [Volumetric Cloud v3](https://www.patreon.com/posts/true-volumetric-87982960) (I use v5 but that one is paywalled)
@@ -47,5 +49,10 @@ For a true plug and play solution your KSC should have the same size as mine (2.
   - [RSMP](https://github.com/dangaffa/RSMP) (Configs for SRBs)
     - [Avalanche Plumes](https://github.com/KochieBR/Avalanche-Plumes) (Alternative for RSMP. One or the other!)
 - [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) (Organizes parts and gives them colored icons based on size similar to KSP2)
+- to be continued...
+
+  ## Dependencies
+
+  - TODO
   
 ![image](modlist.png)
