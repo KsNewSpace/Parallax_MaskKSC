@@ -49,6 +49,7 @@ Check every mod for dependencies (I will add them later here too)
   - [RSMP](https://github.com/dangaffa/RSMP) (Configs for SRBs)
     - [Avalanche Plumes](https://github.com/KochieBR/Avalanche-Plumes) (Alternative for RSMP. One or the other!)
 - [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) (Organizes parts and gives them colored icons based on size similar to KSP2)
+- [TUFX](https://github.com/KSPModStewards/TUFX/) (Post processing effects for KSP to make it look nicer)
 - to be continued...
 
 ## Mod Dependencies
