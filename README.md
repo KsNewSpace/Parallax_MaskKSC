@@ -95,6 +95,8 @@ Please check every mod for dependencies in case I forget to list them
 - [Shabby](https://github.com/KSPModdingLibs/Shabby) (Shader assets bundle loader)
 - [Harmony](https://github.com/KSPModdingLibs/HarmonyKSP) (Tools for modders)
 - [KSP Burst](https://github.com/KSPModdingLibs/KSPBurst/) (Burst compiler to make mods run better & cross platform)
+- [SpaceTuxLibrary](https://github.com/linuxgurugamer/SpaceTuxLibrary) (useful functions for mods like color pickers)
+- Technicolor - bundles with RestockPBR
 - ...
 
 To be continued!
