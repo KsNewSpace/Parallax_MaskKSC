@@ -69,8 +69,6 @@ Check every mod for dependencies (I will add them later here too)
 - [Physics Hold](https://github.com/gotmachine/PhysicsHold) (Allows you to turn off physics of large craft for better performance (stations and colonies). Docking still works!)
 - [kRPC](https://github.com/krpc/krpc) (Allows you to start a server within KSP to connect and play KSP from the outside using code)
   - [Documentation](https://krpc.github.io/krpc/)
-
-  
 - ...
 
 ## Quality of Life
