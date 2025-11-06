@@ -1,4 +1,4 @@
-![image](screenshots/bonkers.jpg)
+![image](screenshots/header.png)
 
 # Parallax Mask KSC
 Simple mod to mask out the Kerbal Space Center from Parallax scatters using a custom black and white mask. This mod as is, is adapted to a 2.7x size "KSCEnhanced" (Using a simple SigmaDimensions config tweak). You will have to mod it to fit it to your needs. For troubleshooting you can enable red / green debug colors in the config. 
