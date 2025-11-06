@@ -56,6 +56,8 @@ Check every mod for dependencies (I will add them later here too)
 ## Functional
 
 - [Persistant Rotation](https://github.com/linuxgurugamer/PersistentRotation) (allows crafts to maintain their rotation / aim during time warp)
+- [Kerbal Konstructs](https://github.com/KSP-RO/Kerbal-Konstructs/) (Allows you to place structures on planets. For example new runways and buildings)
+    - [KSCEnhanced](https://spacedock.info/mod/3654/KSC%20Enhanced%20-%20JNSQ) (Expands KSC with more runways, launch pads and overall fuller design)
 - ...
 
 ## Quality of Life
@@ -65,6 +67,9 @@ Check every mod for dependencies (I will add them later here too)
 
 ## Mod Dependencies
 
+- [Module Manager](https://github.com/KSP-ModularManagement/ModuleManager) (Loads mods into KSP in a somewhat ordered manner using configs - something_MM.cfg)
+- [Omega Structures](https://spacedock.info/mod/2061/Omega%27s%20Stockalike%20Structures:%20No%20Textures%20Required) (KSC parts that can be used by Kerbal Konstructs)
+- [Tundra's Space Center](https://spacedock.info/mod/1831/Tundra's%20Space%20Center) Launch Pads for Kerbal Konstrukts
 - ...
 
 To be continued!
