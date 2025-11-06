@@ -69,7 +69,7 @@ Check every mod for dependencies (I will add them later here too)
 
 - [Module Manager](https://github.com/KSP-ModularManagement/ModuleManager) (Loads mods into KSP in a somewhat ordered manner using configs - something_MM.cfg)
 - [Omega Structures](https://spacedock.info/mod/2061/Omega%27s%20Stockalike%20Structures:%20No%20Textures%20Required) (KSC parts that can be used by Kerbal Konstructs)
-- [Tundra's Space Center](https://spacedock.info/mod/1831/Tundra's%20Space%20Center) Launch Pads for Kerbal Konstrukts
+- [Tundra's Space Center](https://spacedock.info/mod/1831/Tundra's%20Space%20Center) Launch Pads that can be used by Kerbal Konstrukts
 - ...
 
 To be continued!
