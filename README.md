@@ -65,6 +65,7 @@ To download a mod on Github check the right side for "Releases". There you can d
   - [Restock Waterfall](https://spacedock.info/mod/3149/Restock%20Waterfall%20Expansion) (Waterfall Configs for Restock, contains its dependencies)
   - [RSMP](https://github.com/dangaffa/RSMP) (Configs for SRBs)
 - [TUFX](https://github.com/KSPModStewards/TUFX/) (Post processing effects for KSP to make it look nicer)
+  - I provide my config file as optional addon. Put it in the GameData folder directly. You have to apply it ingame.
 - [Deferred](https://github.com/LGhassen/Deferred/) (Rendering upgrade for KSP + Screenspace Reflections)
 - [Resurfaced](https://github.com/Tantares/Resurfaced) (Shader upgrade for KSP)
 - [VaporCones](https://spacedock.info/mod/3805/VaporCones) (Adds vapor cones at transonic speeds. Can be annoying if you fly that speed constantly)
