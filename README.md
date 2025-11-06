@@ -12,7 +12,7 @@ Derived from the [Official Tutorial](https://github.com/Gameslinx/Parallax-Conti
 
 My goal is to bring KSP to 2025 without changing the core gameplay loop too much. The 2.7x rescale makes it a bit more difficult to get around but it works perfectly fine with stock parts. In fact, I think the stock parts are designed for this particular size. They are just OP on 1x, especially the bigger tanks and engines. For the number people: Getting to orbit around Kerbin requires just shy of 4000 m/s DeltaV. Mostly payloads will become smaller and more realistic looking. If you want giant rovers and colonies better prepare for some orbital construction and fuel depots :)
 
-### Self Promotion
+### Official Channels
 
 - YouTube: [@KsNewSpace](https://www.youtube.com/@KsNewSpace) (KSP, Coding, Space Stuff)
 - Twi..X: [@KsNewSpace](https://x.com/KsNewSpace) (I'm not a Nazi)
