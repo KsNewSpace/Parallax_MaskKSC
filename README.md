@@ -42,7 +42,9 @@ For a true plug and play solution your KSC should have the same size as mine (2.
 
 ![image](screenshots/bonkers.jpg)
 
-Check every mod for dependencies (I will add them later here too)
+*<div align="center">This could be your KSP</div>*
+
+Please check every mod for dependencies in case I forget to list them
 
 ## Audio - Visual (mostly)
 
