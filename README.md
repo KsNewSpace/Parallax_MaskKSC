@@ -12,6 +12,10 @@ Derived from the [Official Tutorial](https://github.com/Gameslinx/Parallax-Conti
 
 # Installation
 
+## Download
+
+Github Mirror: [Parallax_MaskKSC/releases](https://github.com/KsNewSpace/Parallax_MaskKSC/releases)
+
 ## Copy Files
 
 Paste the downloaded folder into your GameData folder like so
