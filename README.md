@@ -14,7 +14,7 @@ Derived from the [Official Tutorial](https://github.com/Gameslinx/Parallax-Conti
 
 ## Download
 
-Github Mirror: [Parallax_MaskKSC/releases](https://github.com/KsNewSpace/Parallax_MaskKSC/releases)
+Github Mirror: [Parallax_MaskKSC/releases](https://github.com/KsNewSpace/Parallax_MaskKSC/releases) (v1.1 latest zip file)
 
 ## Copy Files
 
