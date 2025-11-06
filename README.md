@@ -1,4 +1,4 @@
-Parallax Mask KSC + 2.7x Resize (optional)
+Parallax Mask KSC + 2.7x Resize ***(optional)***
 ==========================================
 ***for Kerbal Space Program*** *by KsNewSpace aka. Lukas*
 
