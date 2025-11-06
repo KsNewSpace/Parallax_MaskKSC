@@ -55,7 +55,7 @@ Check every mod for dependencies (I will add them later here too)
 - [Resurfaced](https://github.com/Tantares/Resurfaced) (Shader upgrade for KSP)
 - [VaporCones](https://spacedock.info/mod/3805/VaporCones) (Adds vapor cones at transonic speeds. Can be annoying if you fly that speed constantly)
 - [RocketSoundEnhancement](https://github.com/KSPModStewards/RocketSoundEnhancement) (Framework to make better sounds)
-  - [RSEDefault](https://github.com/KSPModStewards/RocketSoundEnhancementDefault) (Default configs for RSE. Adds sonic booms, wheel squeek, propeller sounds and more)
+  - [RSEDefault](https://github.com/KSPModStewards/RocketSoundEnhancementDefault) (Default configs for RSE. Also adds sonic booms, wheel squeek, propeller sounds and more)
 - ...
 
 ## Functional
@@ -67,8 +67,7 @@ Check every mod for dependencies (I will add them later here too)
 - [CameraTools](https://github.com/BrettRyland/CameraTools) (Move the ingame camera freely for epic shots. I also use it for the smooth following camera on planes (Dogfight))
 - [Distant Object Enhancement](https://github.com/net-lisias-ksp/DistantObject) (Puts real stars into the sky you can hover over to check their names and more)
 - [Physics Hold](https://github.com/gotmachine/PhysicsHold) (Allows you to turn off physics of large craft for better performance (stations and colonies). Docking still works!)
-- [kRPC](https://github.com/krpc/krpc) (Allows you to start a server within KSP to connect and play KSP from the outside using code)
-  - [Documentation](https://krpc.github.io/krpc/)
+- [kRPC](https://github.com/krpc/krpc) (Allows you to start a server within KSP to connect and play KSP from the outside using code. [Documentation](https://krpc.github.io/krpc/))
 - ...
 
 ## Quality of Life
