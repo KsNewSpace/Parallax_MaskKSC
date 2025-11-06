@@ -56,9 +56,10 @@ Check every mod for dependencies (I will add them later here too)
 ## Quality of Life
 
 - [VAB Organizer](https://github.com/post-kerbin-mining-corporation/VABOrganizer) (Organizes parts and gives them colored icons based on size similar to KSP2)
-- to be continued...
 
 ## Mod Dependencies
+
+to be continued...
 
 - TODO
   
