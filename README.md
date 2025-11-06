@@ -52,7 +52,7 @@ Check every mod for dependencies (I will add them later here too)
 
 ## Functional
 
-- [Persistant Rotation](https://github.com/linuxgurugamer/PersistentRotation) (allows crafts to hold their aim during time warp)
+- [Persistant Rotation](https://github.com/linuxgurugamer/PersistentRotation) (allows crafts to maintain their rotation / aim during time warp)
 - ...
 
 ## Quality of Life
