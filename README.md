@@ -2,7 +2,7 @@ Parallax Mask KSC + 2.7x Resize *(optional)*
 ==========================================
 ***for Kerbal Space Program*** *by Lukas K. aka KsNewSpace*
 
-![image](screenshots/header.png)
+![image](screenshots/header.jpg)
 
 *<div align="center">this is how a correct mask should look like in debug colors -> see config file to enable it</div>*
 
