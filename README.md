@@ -44,7 +44,7 @@ Copy the content of the optional GameData folder into your GameData folder. Make
 
 - I have to tinker with Kronometer or other settings to make the daytime make a little more sense. It should be ~12 hours on 2.7x scale but it isn't?
 
-My Complete Mod List: [KSP Stockalike Overhaul](https://github.com/KsNewSpace/Ks_Stockalike_Overhaul)
+My Complete Mod List: [K's Stockalike Overhaul](https://github.com/KsNewSpace/Ks_Stockalike_Overhaul)
 ====================
 
 ![image](screenshots/bonkers.jpg)
